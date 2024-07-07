@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "974866864003",
+    "project_id": "giftme-bf341",
+    "storage_bucket": "giftme-bf341.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:974866864003:android:c8edf5cad9815428d188b6",
+        "android_client_info": {
+          "package_name": "com.mobile.giftme"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "974866864003-v3qivnmi3igjae3b88arsfjt5q0bbrf6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAa1y_Fg4EaLpxfBH7oPdmB6QV0LhMTL6s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "974866864003-v3qivnmi3igjae3b88arsfjt5q0bbrf6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
